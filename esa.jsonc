@@ -1,0 +1,7 @@
+{
+  "assets": {
+    "directory": "./"   // 如果你的静态文件就在根目录，就写 "./"
+    // 如果静态文件在子目录（如 public），则写 "./public"
+  }
+  // 不需要写 installCommand、buildCommand、entry
+}
